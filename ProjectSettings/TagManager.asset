@@ -4,11 +4,11 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - PlayerTrigger
-  - Vaultable
-  - Vaultable_2m
-  - Vaultable_05m
-  - Vaultable_1m
+  - Stop
+  - Esquina
+  - Marcador
+  - Blocks
+  - IaCar
   layers:
   - Default
   - TransparentFX
